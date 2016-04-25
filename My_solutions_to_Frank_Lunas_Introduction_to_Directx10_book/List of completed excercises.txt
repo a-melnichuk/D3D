@@ -1,0 +1,20 @@
+Part 2:
+Chapter 6: Lightning
+- simple toon shading/coloured lights
+
+Chapter 10: Geometry Shader
+- triangulating icosahedron into sphere with geomtery shader
+
+Part 3:
+
+Chapter 13: Shadow Mapping
+-implemented projective texturing
+
+Chapter 15:Picking
+- visualized AABB bounds of picked model in mesh and picked triangle
+
+Chapter 16: Terraing Rendering
+- simulated camera walking on terraing using heightmap
+
+Chapter 17: Particle Systems
+- implemented explosion and fountain particle effects

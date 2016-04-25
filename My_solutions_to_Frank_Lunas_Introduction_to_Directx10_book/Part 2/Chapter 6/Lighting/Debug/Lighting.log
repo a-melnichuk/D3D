@@ -1,0 +1,17 @@
+﻿Build started 12.12.2015 19:48:40.
+     1>Project "C:\DXSAMPLES\Chapter 6\Lighting\Lighting.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Lighting.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Lighting.vcxproj -> C:\DXSAMPLES\Chapter 6\Lighting\Debug\Lighting.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Lighting.unsuccessfulbuild".
+         Touching "Debug\Lighting.lastbuildstate".
+     1>Done Building Project "C:\DXSAMPLES\Chapter 6\Lighting\Lighting.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.21
